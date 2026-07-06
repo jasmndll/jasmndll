@@ -23,10 +23,20 @@ Backend & AI Engineer | Java · Spring Boot · Python | Building production syst
 **Tools & DevOps**
 `Git/GitHub` `Docker` `IntelliJ` `Linux` `Streamlit`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jasmndll&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jasmndll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmndll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasmndll&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmndll&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasmndll&color=blue&style=flat" alt="profile views"/>
+</p>
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jasmndll&limit=5&theme=dark&combine_all_yearly_contributions=true)
