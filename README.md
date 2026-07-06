@@ -23,7 +23,6 @@ Backend & AI Engineer | Java · Spring Boot · Python | Building production syst
 **Tools & DevOps**
 `Git/GitHub` `Docker` `IntelliJ` `Linux` `Streamlit`
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
