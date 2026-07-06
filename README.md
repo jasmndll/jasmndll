@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science with ML<br>I am currently looking to enroll more in open source contribution<br>I am currently planning on learning AI and Machine learning algorithms<br>
+Backend & AI Engineer | Java · Spring Boot · Python | Building production systems
 
 
 ## 🌐 Socials:
